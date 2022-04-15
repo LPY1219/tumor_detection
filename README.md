@@ -1,5 +1,5 @@
 # -
-compare the results of different networks in tumor_detection
+This project compare the results of different networks in tumor_detection
 
 Unet.py is the main program.
 Other files(Begin with "Res" or "Leaky") are network architecture.
